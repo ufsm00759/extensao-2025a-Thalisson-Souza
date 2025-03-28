@@ -1,7 +1,9 @@
 # Aula 2
 
-**Assunto:** A aula foi voltada para contar se em algum determinado tempo na trajetória academica realizou
-um projeto de extensão.
+**Data da Aula:** 11/04/2025
+
+**Assunto:** Compartilhar experiências acadêmicas, 
+com foco em projetos de extensão realizados ao longo da trajetória universitária.
 
 ## **Minha Experiência:**
 
@@ -20,8 +22,8 @@ As explicações foram estruturadas de maneira simples e didática para garantir
 Os slides foram criados com cores vibrantes, com objetivo de captar a atenção dos alunos
 e tornar a apresentação mais chamativa aos alunos:
 
-![img_2.png](../src/image/Aula2/img_2.png)
+![img_2.png](src/image/Aula2/img_2.png)
 
-![img.png](../src/image/Aula2/img.png)
+![img.png](src/image/Aula2/img.png)
 
-![img_1.png](../src/image/Aula2/img_1.png)
+![img_1.png](src/image/Aula2/img_1.png)
