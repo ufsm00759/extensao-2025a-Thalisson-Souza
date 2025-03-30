@@ -22,19 +22,19 @@ As explicações foram estruturadas de maneira simples e didática para garantir
 Os slides foram criados com cores vibrantes, com objetivo de captar a atenção dos alunos
 e tornar a apresentação mais chamativa aos alunos:
 
-![img.png](image/Aula2/img_2.png)
+![img.png](images/img_01.png)
 
-![img.png](img.png)
+![img.png](images/img_02.png)
 
-![img_1.png](image/Aula2/img.png)
+![img.png](images/img_03.png)
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_05.png)
 
-![img_3.png](img_3.png)
+![img_3.png](images/img_06.png)
 
-![img.png](image/Aula2/img_1.png)
+![img.png](images/img_04.png)
 
-![img_4.png](img_4.png)
+![img_4.png](images/img_07.png)
 
-![img_5.png](img_5.png)
+![img_5.png](images/img_08.png)
 
