@@ -5,9 +5,9 @@
 **Assunto:** Compartilhar experiências acadêmicas, 
 com foco em projetos de extensão realizados ao longo da trajetória universitária.
 
-## **Minha Experiência:**
+-----------
 
-### Conectando Saberes
+## Conectando Saberes
 
 No dia 9 de junho de 2024, o PET Ciência da Computação iniciou visitas a escolas de Santa Maria 
 como parte do projeto "Conectando Saberes".
@@ -24,7 +24,17 @@ e tornar a apresentação mais chamativa aos alunos:
 
 ![img.png](image/Aula2/img_2.png)
 
+![img.png](img.png)
+
 ![img_1.png](image/Aula2/img.png)
 
+![img_2.png](img_2.png)
+
+![img_3.png](img_3.png)
+
 ![img.png](image/Aula2/img_1.png)
+
+![img_4.png](img_4.png)
+
+![img_5.png](img_5.png)
 
