@@ -24,6 +24,6 @@ QR code a cada planta.
 Essa experiência nos permitiu compreender de forma prática a relevância de preservar e valorizar os recursos naturais, 
 além de inspirar ideias para projetos futuros que unam educação, ciência e comunidade.
 
-![jardimBotanico.jpeg](images/jardimBotanico.jpeg)
 
-![jardimBotanico2.jpeg](images/jardimBotanico2.jpeg)
+| ![Jardim 1](images/jardimBotanico.jpeg) | ![Jardim 2](images/jardimBotanico2.jpeg) |
+|-----------------------------------------|-----------------------------------------|
